@@ -1,0 +1,77 @@
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmMenu.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.Resources.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.vbproj.GenerateResource.Cache
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\bin\Debug\PrySalesSuite.exe
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\bin\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\bin\Debug\PrySalesSuite.xml
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmLogin.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmVenta.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmPago.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmArticulos.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmArticulos.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmClientes.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmClientes.resources
+C:\Users\juanjo\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\juanjo\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\juanjo\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmmProveedores.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmProvedores.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmCompras.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.exe
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.xml
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmCompras.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmMenu.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.Resources.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmClientes.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmArticulos.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmArticulos.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmClientes.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmmProveedores.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmPago.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmProvedores.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmVenta.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.vbproj.GenerateResource.Cache
+C:\Users\mrmad\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\mrmad\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\mrmad\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmNcompra.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.exe
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.pdb
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\bin\Debug\PrySalesSuite.xml
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmCompras.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmMenu.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmNcompra.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.Resources.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmClientes.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmArticulos.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmArticulos.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmLogin.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmmClientes.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmmProveedores.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmPago.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmProvedores.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmVenta.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.vbproj.GenerateResource.Cache
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmSCompras.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmLogin.resources
+C:\Users\juanjo\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.exe
+C:\Users\juanjo\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.xml
+C:\Users\juanjo\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.pdb
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmSCompras.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmUsers.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmUsu.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmUsers.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.frmUsu.resources
+C:\Users\Alan Sanchez\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.Categorias.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.Categorias.resources
+C:\Users\user\Dropbox\PrySalesSuite_v2\PrySalesSuite\obj\x86\Debug\PrySalesSuite.FrmAgrModCategoria.resources

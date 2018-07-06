@@ -1,0 +1,332 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PrySalesSuite
+</name>
+</assembly>
+<members>
+<member name="T:PrySalesSuite.bdSaleSuitDataSet.tblArticulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblCategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblComprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblDetVentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblProveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblUsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblVentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblRetirosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblArticulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblCategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblComprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblDetVentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblProveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblUsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblVentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblRetirosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblArticulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblCategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblComprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblDetVentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblProveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblUsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblVentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet.tblRetirosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblArticulosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblCategoriasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblComprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblDetVentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblProveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblUsuariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblVentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.tblRetirosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PrySalesSuite.bdSaleSuitDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PrySalesSuite.bdSaleSuitDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PrySalesSuite.bdSaleSuitDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.UpdateAll(PrySalesSuite.bdSaleSuitDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PrySalesSuite.bdSaleSuitDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources._mod">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.add_to_cart_light">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.application_exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.application_exit__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.backspace">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.clients">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.cobrar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.contact_new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.contact_new___copia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.custom_reports">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.delete_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.Edit_Male_User">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.elimin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.file_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.file_roller">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.icon_bulk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.icono2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.inventory_categories">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.plus_add_green">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.preferences_system_time">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.registrar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.Sales_by_Payment_Method_rep">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.save1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.searchIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.shopping_basket_add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.shopping_cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.supplier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.users">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.venta">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PrySalesSuite.My.Resources.Resources.venta___copia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PrySalesSuite.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
